@@ -1,1 +1,2 @@
 Line 1 : This is my line 1
+Line 2 : This is my line 2
